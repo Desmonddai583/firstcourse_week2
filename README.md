@@ -24,6 +24,9 @@ The flow of Blackjack game
  (3) surrender means you are out of round directly and get half of you bet back
  
 9 Players choose to hit or stay
+
 10 Dealer will hit until his point larger than 17
+
 11 Compare the points, if player win, he can get extra 1 time bet
+
 12 Ask players whether they want to play again
