@@ -20,7 +20,9 @@ The flow of Blackjack game
 
 8 Only in first action of players, they can choose double, split, surrender
  (1) double means player bet an extra one which are same as original bet, then he can only draw one card.
- (2) split means if player gets two cards of same value, then he can choose to split them, and bet extra one on the            splited card, then you play two hands, split times can not be more than 3 times. If you split Ace then an exception       is that you can only draw one card on each hand. And you can not double or surrender after you split
+ 
+ (2) split means if player gets two cards of same value, then he can choose to split them, and bet extra one on the          splited card, then you play two hands, split times can not be more than 3 times. If you split Ace then an exception      is that you can only draw one card on each hand. And you can not double or surrender after you split
+ 
  (3) surrender means you are out of round directly and get half of you bet back
  
 9 Players choose to hit or stay
