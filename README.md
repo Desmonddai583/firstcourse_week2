@@ -19,6 +19,7 @@ The flow of Blackjack game
 7 If players hit the Blackjack, he will get 1.5 times extra bet. And he is out of the round. If all players hit, then this round is over. (Blackjack can only happen at first two deal card, after it, even you get 21 points, it is no blackjack, and if you win, you can only win 1 time extra bet)
 
 8 Only in first action of players, they can choose double, split, surrender
+
  (1) double means player bet an extra one which are same as original bet, then he can only draw one card.
  
  (2) split means if player gets two cards of same value, then he can choose to split them, and bet extra one on the          splited card, then you play two hands, split times can not be more than 3 times. If you split Ace then an exception      is that you can only draw one card on each hand. And you can not double or surrender after you split
